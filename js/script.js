@@ -40,7 +40,7 @@ document.addEventListener('DOMContentLoaded', function() {
             const formData = new FormData(form);
             const xhr = new XMLHttpRequest();
 
-            xhr.open('POST', 'https://formspree.io/f/xvgkoqvy');
+            xhr.open('POST', 'https://formspree.io/f/xwplpnlj');
             xhr.setRequestHeader('Accept', 'application/json');
 
             xhr.onload = function() {
